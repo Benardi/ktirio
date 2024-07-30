@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sibylline
+message: >-
+  C Library with data structures and algorithms written
+  entirely from scratch.
+type: software
+authors:
+  - email: benardinunes@gmail.com
+    family-names: de Souza Nunes
+    given-names: José Benardi
+    orcid: 'https://orcid.org/0000-0001-6035-9865'
+    affiliation: UFCG
